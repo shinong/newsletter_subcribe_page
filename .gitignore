@@ -1,3 +1,4 @@
 test.js
 default.json
 /node_modules
+.env
